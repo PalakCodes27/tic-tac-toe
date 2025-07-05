@@ -24,17 +24,18 @@ A simple, interactive Tic Tac Toe game built using Python's Tkinter GUI framewor
 1. Clone or download the repository
 2. Run the script
 
-📁 Folder Structure
+
+📁 Folder Structure:
 tic-tac-toe/
 ├── tic_tac_toe.py        
 ├── README.md
 
-👨‍💻 Developed By
+👨‍💻 Developed By:
 Palak Sharma
 🧑‍💻 BTech CSE | Guru Nanak Dev University, Amritsar
 🔗 LinkedIn: linkedin.com/in/palak-sharma-450b11289
 
-📌 Project Purpose
+📌 Project Purpose:
 This mini-project was created as part of a placement preparation exercise to demonstrate:
 1.GUI programming in Python
 2.Game logic implementation
